@@ -1095,6 +1095,7 @@ p {
 .about-five-content .about-five-tab .tab-content {
   border: none;
   padding-top: 30px;
+  color: var(--dark-3);
 }
 .about-five-content .about-five-tab .tab-content p {
   margin-bottom: 20px;
@@ -1375,7 +1376,7 @@ p {
   color: var(--dark-3);
   font-size: 20px;
   position: absolute;
-  left: 0;
+  left: -20px;
   top: 6px;
 }
 .pricing-style-fourteen .duration {
